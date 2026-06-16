@@ -63,7 +63,7 @@ npm install
 npm.cmd run dev
 ```
 
-Open `http://localhost:3000`.
+Open `https://consensus-scope.vercel.app`.
 
 ## Environment Variables
 
@@ -73,14 +73,14 @@ Open `http://localhost:3000`.
 - `GENLAYER_CONTRACT_ADDRESS`: optional deployed governance contract address.
 - `NEXT_PUBLIC_API_BASE_URL`: optional frontend API base, defaults to `http://127.0.0.1:8000`.
 
-## Screenshots
+### Landing Page
+![Landing](https://consensus-scope.vercel.app)
 
-Add final deployment screenshots here:
-
-- Landing page with GenLayer-inspired hero.
-- Dashboard overview with attack scenario library.
-- Validator intelligence cards showing disagreement and memory pressure.
-- Consensus trace and disagreement heatmap.
+### Live Deployment
+- 🌐 Frontend: https://consensus-scope.vercel.app
+- ⚙️ Backend API: https://consensusscope-backend.onrender.com
+- 📡 API Docs: https://consensusscope-backend.onrender.com/docs
+- 🔗 Contract: https://explorer-bradbury.genlayer.com/tx/0x375eabbfb73944f1f9440e360c4f83d75d418f4a82b414892b06962d5846b498
 
 ## Projects & Milestones
 
